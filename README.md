@@ -13,7 +13,7 @@ Proje, ağ sansürlerini ve DPI tabanlı filtreleme mekanizmalarını daha karar
 <img src="https://img.shields.io/badge/Programı_İndir-FoxDPI_Kurulum-orange?style=for-the-badge">
 </a>
 
-<a href="https://fox-dpi.vercel.app/">
+<a href="https://foxdpi-system.vercel.app/">
 <img src="https://img.shields.io/badge/Resmi_Web_Sitesi-FoxDPI-black?style=for-the-badge">
 </a>
 
@@ -156,7 +156,7 @@ Proje aynı zamanda ağ manipülasyonu ve paket işleme teknikleri üzerine yap�
 
 ## Resmi Web Sitesi
 
-https://fox-dpi.vercel.app/
+https://foxdpi-system.vercel.app/
 
 ---
 
